@@ -1,6 +1,6 @@
-[[Címlap]] #Kiss_Péter
+[index]] #Kiss_Péter
 
-[[Bhaktipédia szövegtár/Szerzők/Kiss Péter/Adatlap|Kiss Péter]]
+[[adatlap]]
 
 # Első írás
 
