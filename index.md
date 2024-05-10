@@ -4,7 +4,7 @@ Ez egy próba, hogy **Obsidianból**[^1] lehet-e weboldalt készíteni.
 
 ## Szerzők
 
-[[Szerzők/Kiss Péter/Adatlap|Kiss Péter]]
+[[szerzok/kiss-peter/adatlap|Kiss Péter]]
 
 [[Szerzők/Kiss Péter/Adatlap|Nagy Pál]]
 
