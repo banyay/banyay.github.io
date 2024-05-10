@@ -1,6 +1,6 @@
 [index]] #Kiss_Péter
 
-[[adatlap]]
+[[adatlap.md]]
 
 # Első írás
 
